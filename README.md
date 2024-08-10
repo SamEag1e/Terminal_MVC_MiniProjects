@@ -23,6 +23,15 @@ or
 ```
 cd Terminal_MVC_MiniProjects/School
 ```
+## Database Setup
+Before running the projects, you need to create the databases and tables. Follow these steps:
+
+1. Install MySQL:
+  * If you want to use other database management systems, you need to modify the model.py file accordingly.
+   
+3. Create  Databases And Tables:
+  * The default names used in model.py files for databases are : ali_baba, online_shop and school
+  * Create databases and tables based on the .sql file in each directory.
 ## Usage
 Run the projects using:
 ```
