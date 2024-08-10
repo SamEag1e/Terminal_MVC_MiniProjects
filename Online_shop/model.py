@@ -22,7 +22,7 @@ class Model:
             pw: Password for connecting to db. (default="admin")
             host: Host for connecting to db. (default="localhost")
             db_name: Name of the database that will be connected.
-                (default="ali_baba")
+                (default="online_shop")
         Return:
             None
         """
